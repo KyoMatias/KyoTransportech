@@ -1,7 +1,4 @@
-import { Header } from "./components/Header";
-import { Hero } from "./components/Hero";
-import { TodapaySection } from "./components/TodapaySection";
-import { Footer } from "./components/Footer";
+import { Header, Hero, TodapaySection, Footer } from "./components";
 
 export default function App() {
   return (
